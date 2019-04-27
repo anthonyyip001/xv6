@@ -1,0 +1,7 @@
+classify-client.services.mozilla.com:HSTS	0	18013	1587864030566,1,0,2
+tiles.services.mozilla.com:HSTS	0	18013	1587864032165,1,0,2
+www.mozilla.org:HSTS	0	18013	1587864029756,1,0,2
+www1.cs.ucr.edu:HSTS	0	18013	1572096011298,1,0,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18013	1587864026339,1,1,2
+normandy.cdn.mozilla.net:HSTS	0	18013	1587864031835,1,0,2
+aus5.mozilla.org:HSTS	0	18013	1587864140690,1,0,2
