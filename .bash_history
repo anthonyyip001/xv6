@@ -332,3 +332,54 @@ firefox&
 geany
 help
 firefox&
+ls
+google-chrome&
+q
+ls
+git 
+git remote add origin https://github.com/anthonyyip001/xv6.git
+git init
+git remote add origin https://github.com/anthonyyip001/xv6.git
+git push -u origin master
+ls
+git push -u origin master
+git add .
+git commit -m "hi"
+git push -u origin master
+ls
+cd xv6-public/
+ls
+geany
+ls
+cd xv6-public/
+ls
+make clean && make qemu-nox
+cd xv6-public/
+ls
+geany
+touch lab2.c
+geany
+ls
+geany lab2.c
+ls
+cd ..
+ls
+cd xv6-public/
+ls
+geany
+ls
+geany Makefile
+make clean && make qemu-nox
+geany
+make clean && make qemu-nox
+geany
+make clean && make qemu-nox
+;s
+ls
+geany proc.c
+l
+cd xv6-public/
+ls
+geany proc.c
+cd xv6-public/
+geany
